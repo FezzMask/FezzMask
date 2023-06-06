@@ -53,7 +53,7 @@ header h4{
 }
 header button{
     padding: 10px 20px;
-    background-color: #000000;
+    background-color: #d66363;
     color:#ffffff;
     border:none;
     margin-bottom: 30px;
@@ -78,7 +78,7 @@ header button{
 .main .content .card .left{
    flex: 0 0 30%;
    padding: 20px;
-   background-color:black;
+   background-color:rgb(0, 0, 0);
    color:#fff;
 }
 .main .content .card .right img{
